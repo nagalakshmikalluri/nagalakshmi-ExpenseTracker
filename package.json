@@ -2,7 +2,7 @@
   "name": "expensivetracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kallurinaveenkumar.github.io/ExpenseTracker",
+  "homepage": "https://github.com/nagalakshmikalluri/ExpenseTracke",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",

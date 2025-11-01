@@ -183,10 +183,10 @@ function AppContent() {
         </nav>
 
         <footer className="app-footer-credit">
-          <div className="credit-text">Made with ❤️ by Naveenkumar Kalluri</div>
+          <div className="credit-text">Made with ❤️ by Nagalakshmi Kalluri</div>
           <div className="social-links">
             <a 
-              href="https://www.linkedin.com/in/naveenkumar-kalluri-3b7709224/" 
+              href="https://www.linkedin.com/in/nagalakshmi-kalluri/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="linkedin-link"
